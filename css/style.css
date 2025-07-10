@@ -1,0 +1,287 @@
+.gap {
+    padding: 10px;
+    color: white;
+}
+.gap:hover{
+    color: yellow;
+}
+.main {
+background-color: #000000;
+}
+.flax {
+    background-color: rgb(20, 20, 20);
+    width: 600px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.emg {
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 5px solid yellow;
+    transition: all .2s;
+}
+.tasty {
+    color: white;
+    margin-top:30px ;
+    padding-left: 20px;
+    font-size: 20px;
+    font-size: 2.5rem;
+    font-family: comic sans ms;
+}
+.off {
+    color: white;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.btn1 {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+.cart {
+    color: white;
+margin-bottom: 10px;
+padding-right: 50px;
+}
+.burger {
+    padding-left: 50px;
+}
+.our {
+    text-align: center;
+margin-top: 50px;
+}
+.lik {
+    text-align: center;
+    padding-left: 380px;
+    gap: 50px;
+    margin-top: 40px;
+    text-decoration: black;
+    margin-bottom: 50px;
+}
+.all {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.ccc {
+    justify-content: space-between;
+}
+.cerd {
+    background-color: black;
+    color: white;
+}
+.fast {
+  color: white;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  background-color: #ffbe33;
+}
+.fest {
+    margin-top: 20px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.hig {
+    width: 293px;
+    height: 270px;
+}
+.big {
+    width: 270px;
+    height:280px ;
+}
+.big1 {
+    width: 280px;
+    height: 285px;
+}
+.dot {
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.bot {
+    margin-bottom: 30px;
+   
+}
+.cot {
+    margin-bottom: 30px;
+}
+.view {
+    text-align: center;
+    background-color: rgb(172, 172, 65);
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+}
+.view:hover {
+    background-color: rgb(241, 241, 103)
+}
+.view1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about {
+    background-color: #222831;
+    margin-top: 50px;
+    margin-bottom: 160;
+}
+.para {
+    color: rgb(250, 250, 249);
+    margin-top: 350px;
+}
+.photo {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.form-control {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 25px;
+    padding-left: 25px;
+    border: 1px solid #999;
+    color: #000000;
+    border-radius: 5px;
+    box-shadow: none;
+}
+.map {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.bok {
+    margin-bottom: 30px;
+}
+.google {
+    height: 360px;
+    width: 600px;
+    padding-left: 10px;
+    border-radius: 20px 
+}
+.table {
+    font-family: comic sans ms;
+}
+.mike {
+background-color: #000000;
+width: 550px;
+height: 200px;
+color: white;
+margin-bottom: 50px;
+}
+.alon {
+    margin: 40px;
+    margin-bottom: 20px;
+}
+.mike {
+    height: 150px;
+    width: 550px;
+    background-color: #000000;
+    color: aliceblue;
+}
+.hamel {
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+.clint {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: 4px solid #ffbe33;
+}
+.ico {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 500px;
+    font-size: 40px;
+}
+.ghl {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #ffbe33;
+    margin-left: 10px;
+}
+.vvv {
+    display: inline-block;
+    padding-left: 90px;
+    gap: 20px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+footer {
+    margin-top: 50px;
+    
+    background-color: #222831;;
+}
+.frt {
+    color: aliceblue;
+    text-align: center;
+}
+.tyu {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.fff {
+    color: aliceblue;
+    gap: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.fff:hover {
+    color: orange;
+}
+.rty {
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    background-color: aliceblue;
+    color: #000000;
+}
+.asdf {
+    margin-bottom: 100px;
+}
+.pop {
+    background-image: url(https://themewagon.github.io/feane/images/hero-bg.jpg);
+    background-size: cover;
+}
+.lop {
+    margin-bottom: 10px;
+    padding-top: 330px;
+    color: aliceblue;
+    padding-left: 90px;
+}
+.ert {
+    margin-bottom: 200px;
+ height: 40px;
+ width: 150px;
+ border-radius: 20px;
+ background-color: #ffbe33;;
+}
+.ert1 {
+margin-bottom: 1px;
+color: aliceblue;
+font-size: 20px;
+border: none;
+}
+.ert1:hover {
+    background-color: orange;
+}
+.gap {
+    text-decoration: none;
+}
+.list {
+    color: aliceblue;
+}
+.vcr {
+    padding-left: 250px;
+    gap: 30px;
+}
+.fre {
+    color: aliceblue;
+}
